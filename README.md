@@ -14,7 +14,7 @@ This repository contains the dataset and summary files related to the research t
 3.  **`UStAI annotated.csv`**
     * **Description**: This file contains the annotated part of the dataset. The annotations are based on the Quality User Story (QUS) framework, which assesses the quality of user stories across various criteria.
 
-### Column Headers in `UStAI-24.csv`
+### Column Headers in `UStAI-annotated.csv`
 
 The `UStAI-24.csv` file includes the following columns, with annotations based on the QUS framework:
 
